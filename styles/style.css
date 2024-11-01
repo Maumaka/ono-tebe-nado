@@ -212,7 +212,7 @@
   
 }
 .card_film_background-image {
-  background-image: url(../images/card-lot-01.jpg); 
+  background-image: url(../images/card-lot-01.jpg);
 }
 
 .card_header {
@@ -227,7 +227,7 @@
   text-transform: uppercase
 }
 .card_header_film_padding {
-  padding: 51px 40px 0px 40px; 
+  padding: 51px 40px 0px 40px;
 }
 
 .card_text {
