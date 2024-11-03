@@ -224,9 +224,7 @@
   line-height: 120%;
   text-decoration: underline;
   text-decoration-skip-ink: none;
-  text-transform: uppercase
-}
-.card_header_film_padding {
+  text-transform: uppercase;
   padding: 51px 40px 0px 40px;
 }
 
@@ -245,16 +243,8 @@
   background-image: url(../images/card-lot-02.jpg);
 }
 
-.card_header_book_padding {
-  padding: 51px 40px 0px 40px;
-}
-
 .card_picture_background-image {
   background-image: url(../images/card-lot-03.jpg);
-}
-
-.card_header_picture_padding {
-  padding: 51px 40px 0px 40px;
 }
 
 .under_lots_link {
