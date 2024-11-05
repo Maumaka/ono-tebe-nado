@@ -321,6 +321,10 @@
   margin-bottom: 88px;
 }
 
+.footer_adress_position {
+  margin-right: 85px;
+}
+
 .footer_menu {
   display: flex;
   flex-direction: column;
